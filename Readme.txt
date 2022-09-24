@@ -1,0 +1,1 @@
+This is a my first project test for the Kaggle competition, Titanic Machine Learning From Disaster. The goal of this repository is to provide an learning environment for me of using git and getting into the field of data analytics or using python for Kaggle's Data Science competitions .
